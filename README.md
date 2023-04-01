@@ -1,7 +1,7 @@
 # Video Playback Rate Chrome Extension
 
 Playing around to see how much I can do using ChatGPT (GPT-4).
-This is a simple Chrome extension that allows you to control the playback rate of HTML5 videos on a webpage. The extension was developed using only ChatGPT (GPT-4) by OpenAI, without ever having built a Chrome extension or even referring to the Chrome documentation. It demonstrates the capabilities of AI assistance in software development.
+This is a simple Chrome extension that allows you to control the playback rate of HTML5 videos on a webpage. The extension was developed using only ChatGPT (GPT-4) by OpenAI, without ever having built a Chrome extension or even referring to the Chrome documentation. 
 
 ## Features
 
